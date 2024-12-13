@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.25cde8a3.css",
-    "main.js": "/my-portfolio/static/js/main.b610dd49.js",
+    "main.css": "/my-portfolio/static/css/main.8943701b.css",
+    "main.js": "/my-portfolio/static/js/main.3a731d89.js",
+    "static/media/profile.png": "/my-portfolio/static/media/profile.6d8bd269ed0938a576d7.png",
     "static/media/movie3.png": "/my-portfolio/static/media/movie3.4f452f9a56a9b67a6cad.png",
     "static/media/movie2.png": "/my-portfolio/static/media/movie2.3550aa4bab796c11ceb4.png",
     "static/media/clean3.png": "/my-portfolio/static/media/clean3.4186812806cd7eb43eea.png",
@@ -17,7 +18,6 @@
     "static/media/learn3.png": "/my-portfolio/static/media/learn3.a6d5c9a2add669606f74.png",
     "static/media/movie.png": "/my-portfolio/static/media/movie.a7478226677e3acc515b.png",
     "static/media/learn.png": "/my-portfolio/static/media/learn.b1597662c3c247f87cc8.png",
-    "static/media/profile.png": "/my-portfolio/static/media/profile.0dec428f507917c6fe97.png",
     "static/media/dart.png": "/my-portfolio/static/media/dart.dfd133351afa1ac0b57d.png",
     "static/media/clean.png": "/my-portfolio/static/media/clean.47691cfe7f3556d20c8f.png",
     "static/media/workImg.jpeg": "/my-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
@@ -29,11 +29,11 @@
     "static/media/firebase.png": "/my-portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-portfolio/index.html",
-    "main.25cde8a3.css.map": "/my-portfolio/static/css/main.25cde8a3.css.map",
-    "main.b610dd49.js.map": "/my-portfolio/static/js/main.b610dd49.js.map"
+    "main.8943701b.css.map": "/my-portfolio/static/css/main.8943701b.css.map",
+    "main.3a731d89.js.map": "/my-portfolio/static/js/main.3a731d89.js.map"
   },
   "entrypoints": [
-    "static/css/main.25cde8a3.css",
-    "static/js/main.b610dd49.js"
+    "static/css/main.8943701b.css",
+    "static/js/main.3a731d89.js"
   ]
 }
